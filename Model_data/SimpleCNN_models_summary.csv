@@ -1,0 +1,2 @@
+model,total_time_s,avg_time_per_epoch_s
+SimpleCNN,11160.69,1116.07
